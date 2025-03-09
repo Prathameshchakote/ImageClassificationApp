@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict/>
+    </array>
+    
+    <!-- Added Camera Usage Description -->
+    <key>NSCameraUsageDescription</key>
+    <string>This app needs camera access to take photos for image classification</string>
+    
+    <!-- Added Photo Library Usage Description -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>This app needs photo library access to select images for classification</string>
+</dict>
+</plist>
