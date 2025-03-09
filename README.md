@@ -11,10 +11,6 @@ A modern iOS application that demonstrates the integration of SwiftUI with CoreM
 - Clean, intuitive SwiftUI interface
 - MVVM architecture pattern
 
-## Screenshots
-
-[Add your screenshots here]
-
 ## Requirements
 
 - iOS 15.0+
@@ -25,7 +21,7 @@ A modern iOS application that demonstrates the integration of SwiftUI with CoreM
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/SwiftUI-CoreML-ImageClassifier.git
+   https://github.com/Prathameshchakote/ImageClassificationApp
    ```
 
 2. Open the project in Xcode
