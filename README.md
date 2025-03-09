@@ -66,10 +66,6 @@ This app requires the following permissions which are defined in the Info.plist 
 - Multiple model comparison
 - Image annotation capabilities
 
-## License
-
-[Specify your license here - e.g., MIT, Apache 2.0, etc.]
-
 ## Acknowledgments
 
 - Apple for SwiftUI and CoreML frameworks
